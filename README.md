@@ -1,0 +1,3 @@
+The Drag and Drop feature provides an interactive way to move items within a web application by dragging them from one location and dropping them into another. This user-friendly functionality enhances the interface, making it easier to manage and organize content dynamically. Ideal for applications involving item reordering, customization, or organization, this feature uses HTML, CSS, and JavaScript to offer a seamless and intuitive experience.
+![Screenshot_2-8-2024_153958_](https://github.com/user-attachments/assets/c2684e46-b27d-4e73-84b1-d85f5602c8e1)
+![Screenshot_2-8-2024_153937_](https://github.com/user-attachments/assets/16a25f70-e0f8-4dec-a12d-f84239ed90a4)
